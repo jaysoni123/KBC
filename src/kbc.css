@@ -1,0 +1,18 @@
+.title {
+    font-family: inherit;
+}
+
+.footer{
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer_text {
+    font-family: cursive;
+}
+
+.question_box {
+    height: "400px"
+}
