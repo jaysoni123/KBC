@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49bfd5544f22ba0d82ebd0f7a9f5391b",
+    "revision": "71790247e664dd28ddf5fb134679259b",
     "url": "/KBC/index.html"
   },
   {
-    "revision": "7157f7788a1bc722bed9",
-    "url": "/KBC/static/css/main.cf460e1f.chunk.css"
+    "revision": "45decf696ee10f11fc64",
+    "url": "/KBC/static/css/main.1633a3cc.chunk.css"
   },
   {
-    "revision": "36af60a06b35c1b039a8",
-    "url": "/KBC/static/js/2.6313b6b2.chunk.js"
+    "revision": "70b3a3a292ae230cca34",
+    "url": "/KBC/static/js/2.6a9942b8.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/KBC/static/js/2.6313b6b2.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/KBC/static/js/2.6a9942b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7157f7788a1bc722bed9",
-    "url": "/KBC/static/js/main.0a846914.chunk.js"
+    "revision": "45decf696ee10f11fc64",
+    "url": "/KBC/static/js/main.062aabea.chunk.js"
   },
   {
     "revision": "ad93255ff0e23596bce7",
