@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KBC/static/css/main.1633a3cc.chunk.css",
-    "main.js": "/KBC/static/js/main.61f727c9.chunk.js",
-    "main.js.map": "/KBC/static/js/main.61f727c9.chunk.js.map",
+    "main.js": "/KBC/static/js/main.8d20d428.chunk.js",
+    "main.js.map": "/KBC/static/js/main.8d20d428.chunk.js.map",
     "runtime-main.js": "/KBC/static/js/runtime-main.c09fad33.js",
     "runtime-main.js.map": "/KBC/static/js/runtime-main.c09fad33.js.map",
     "static/js/2.aa2087d6.chunk.js": "/KBC/static/js/2.aa2087d6.chunk.js",
     "static/js/2.aa2087d6.chunk.js.map": "/KBC/static/js/2.aa2087d6.chunk.js.map",
     "index.html": "/KBC/index.html",
-    "precache-manifest.7942f3406d8ebfe3b73e874e37cf7b38.js": "/KBC/precache-manifest.7942f3406d8ebfe3b73e874e37cf7b38.js",
+    "precache-manifest.48bb19769d2507795e5e58acfda8d70a.js": "/KBC/precache-manifest.48bb19769d2507795e5e58acfda8d70a.js",
     "service-worker.js": "/KBC/service-worker.js",
     "static/css/main.1633a3cc.chunk.css.map": "/KBC/static/css/main.1633a3cc.chunk.css.map",
     "static/js/2.aa2087d6.chunk.js.LICENSE.txt": "/KBC/static/js/2.aa2087d6.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c09fad33.js",
     "static/js/2.aa2087d6.chunk.js",
     "static/css/main.1633a3cc.chunk.css",
-    "static/js/main.61f727c9.chunk.js"
+    "static/js/main.8d20d428.chunk.js"
   ]
 }
