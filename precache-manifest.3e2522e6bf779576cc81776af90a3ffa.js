@@ -1,0 +1,34 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "8c1145c00fd60698a90559b311b6d5fe",
+    "url": "/KBC/index.html"
+  },
+  {
+    "revision": "d44ba486b1a4b2a5ccbe",
+    "url": "/KBC/static/css/main.1633a3cc.chunk.css"
+  },
+  {
+    "revision": "b116dc6b2ba033a5efbc",
+    "url": "/KBC/static/js/2.aa2087d6.chunk.js"
+  },
+  {
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/KBC/static/js/2.aa2087d6.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "d44ba486b1a4b2a5ccbe",
+    "url": "/KBC/static/js/main.946286ea.chunk.js"
+  },
+  {
+    "revision": "ad93255ff0e23596bce7",
+    "url": "/KBC/static/js/runtime-main.c09fad33.js"
+  },
+  {
+    "revision": "bdbc7ea6a05af3f02ea1736c3736c76c",
+    "url": "/KBC/static/media/good_luck.bdbc7ea6.gif"
+  },
+  {
+    "revision": "cd5df42906a9bfe3dcfcfc73d6fb744d",
+    "url": "/KBC/static/media/kbc.cd5df429.png"
+  }
+]);
