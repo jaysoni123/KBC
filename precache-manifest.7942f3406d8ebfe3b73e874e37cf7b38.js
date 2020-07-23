@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d38433aceb4d3345a0fb08241378924c",
+    "revision": "193688b0fe3972bb7cbe2aa8167d758e",
     "url": "/KBC/index.html"
   },
   {
-    "revision": "887defcaf79f15636467",
+    "revision": "103cb01c55194c154a4e",
     "url": "/KBC/static/css/main.1633a3cc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KBC/static/js/2.aa2087d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "887defcaf79f15636467",
-    "url": "/KBC/static/js/main.85fbbec2.chunk.js"
+    "revision": "103cb01c55194c154a4e",
+    "url": "/KBC/static/js/main.61f727c9.chunk.js"
   },
   {
     "revision": "ad93255ff0e23596bce7",
